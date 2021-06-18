@@ -1,0 +1,2 @@
+# EcoView
+To get rid from air pollution problem, we make an application which shows the air quality index and the amount of pollutants present in the air of any particular location and suggest the user how much trees are to be planted. Also, there are many urban place where afforestation is becoming little difficult . So, keeping this in mind we designed an air filter which can filtered the pollutants and purify the air. So for those places  users get to know how many filters are required based on the air quality of that location.l 
